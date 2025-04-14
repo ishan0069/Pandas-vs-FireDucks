@@ -4,6 +4,7 @@ This project is all about comparing two powerful Python libraries — Pandas and
 We generated a synthetic dataset of 10 Million Rows and did some common real-world data operations to find out which library is faster ⚡
 
 ✨ What's Inside?
+
 Read Large CSV Files and Filter Data
 
 GroupBy Operations
@@ -20,6 +21,7 @@ FireDucks
 Matplotlib
 
 How to Run?
+
 git clone(https://github.com/ishan0069/Pandas-vs-FireDucks.git)
 
 → Open the notebook (FireDucks.ipynb) in Google Colab / Jupyter and run all cells
