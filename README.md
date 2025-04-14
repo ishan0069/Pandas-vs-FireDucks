@@ -27,9 +27,6 @@ git clone(https://github.com/ishan0069/Pandas-vs-FireDucks.git)
 
 → Open the notebook (FireDucks.ipynb) in Google Colab / Jupyter and run all cells
 
-Dataset Download
-Download the dataset from here: Download ecommerce_10m.csv
-
 Purpose
 This project is a simple experiment to show:
 
