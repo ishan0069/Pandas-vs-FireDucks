@@ -1,7 +1,7 @@
 Pandas vs FireDucks - Speed Showdown on Big Data!
 This project is all about comparing two powerful Python libraries — Pandas and FireDucks — when it comes to working with very big datasets ????
 
-We generated a synthetic dataset of 10 Million Rows ???? and did some common real-world data operations to find out which library is faster ⚡
+We generated a synthetic dataset of 10 Million Rows and did some common real-world data operations to find out which library is faster ⚡
 
 ✨ What's Inside?
 Read Large CSV Files and Filter Data
