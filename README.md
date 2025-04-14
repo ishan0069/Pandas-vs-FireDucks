@@ -20,7 +20,7 @@ FireDucks
 Matplotlib
 
 How to Run?
-git clone
+git clone(https://github.com/ishan0069/Pandas-vs-FireDucks.git)
 
 → Open the notebook (FireDucks.ipynb) in Google Colab / Jupyter and run all cells
 
